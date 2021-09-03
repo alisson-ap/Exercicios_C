@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="pilha.h" />
+	<category name="bin.c" />
+	<category name="posfixa.c" />
+	<category name="ex-2.c" />
+	<category name="fila.h">
+		<category name="Window">
+			<property name="Left" type="integer">26</property>
+			<property name="Top" type="integer">26</property>
+			<property name="Right" type="integer">744</property>
+			<property name="Bottom" type="integer">593</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="colorir3.c" />
+	<category name="teste_fila2.c">
+		<category name="Breakpoints">
+			<category name="Breakpoint1">
+				<property name="Line" type="integer">10</property>
+				<property name="Enabled" type="integer">1</property>
+				<property name="HitCount" type="integer">0</property>
+				<property name="Expression" type="string"></property>
+			</category>
+		</category>
+	</category>
+	<category name="prefixa.c">
+		<category name="Window">
+			<property name="Left" type="integer">4294967288</property>
+			<property name="Top" type="integer">4294967265</property>
+			<property name="Right" type="integer">701</property>
+			<property name="Bottom" type="integer">765</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+</settings>
